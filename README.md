@@ -15,8 +15,6 @@
 Les capitaines ont accès à un back-office pour gérer les dates des rencontres, adversaires, divisions / poules des équipes, fiche des joueurs, etc ...<br><br>
 Enfin, **Kompo** étant entièrement adapté aux versions mobiles, il leur permettra de remplir facilement les feuilles de matches avec les informations de chaque joueur avant chaque début de match.
 
-Le voici, le voilà : <a href="https://www.prive.esftt.com/"> Kompo</a> !
-
 <h3 id="page_de_connexion">Page de connexion</h3>
 
 <p align="center"><img width="100%" src="https://raw.githubusercontent.com/StephSako/Kompo/master/illustrations/login.PNG" alt="login"></p>
