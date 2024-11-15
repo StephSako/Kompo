@@ -4,8 +4,6 @@
 
 <p align="center"><img width="100%" src="https://raw.githubusercontent.com/StephSako/Kompo/master/illustrations/accueil.PNG" alt="accueil"></p>
 
-<p align="center" style="font-size: 12px">~ Avec l'aide de <a href="https://github.com/carage34">carage34</a> ~</p>
-
 <h3 id="resume">En résumé ...</h3>
 
 <p align="center"><img width="30%" src="https://raw.githubusercontent.com/StephSako/Kompo/master/illustrations/logo_esftt.png" alt="logo_esftt"></p>
