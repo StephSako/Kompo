@@ -16,9 +16,9 @@ Enfin, **Kompo** est entièrement adapté aux mobiles ; il n’y aura aucune dif
 
 <div style="width: 100%; display: flex; justify-content: space-evenly;">
   <p align="center">
-    <img width="33%" src="https://raw.githubusercontent.com/StephSako/Kompo/refs/heads/main/illustrations/responsive_1.PNG" alt="responsive_1">
-    <img width="33%" src="https://raw.githubusercontent.com/StephSako/Kompo/refs/heads/main/illustrations/responsive_2.PNG" alt="responsive_2">
-    <img width="33%" src="https://raw.githubusercontent.com/StephSako/Kompo/refs/heads/main/illustrations/responsive_3.PNG" alt="responsive_3">
+    <img width="32%" src="https://raw.githubusercontent.com/StephSako/Kompo/refs/heads/main/illustrations/responsive_1.PNG" alt="responsive_1">
+    <img width="32%" src="https://raw.githubusercontent.com/StephSako/Kompo/refs/heads/main/illustrations/responsive_2.PNG" alt="responsive_2">
+    <img width="32%" src="https://raw.githubusercontent.com/StephSako/Kompo/refs/heads/main/illustrations/responsive_3.PNG" alt="responsive_3">
   </p>
 </div>
 
