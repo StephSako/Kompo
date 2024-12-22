@@ -34,7 +34,7 @@ Enfin, **Kompo** est entièrement adapté aux mobiles : il n’y a aucune diffic
 - [(4) - Tableau des disponibilités](#4---tableau-des-disponibilités)
 - [(5) - Calcul des points virtuels](#5---calcul-des-points-virtuels)
 - [(6) - Barre de navigation](#6---barre-de-navigation)
-  - [Naviguer de journées en journées des championnats}(#naviguer-de-journées-en-journées-des-championnats)
+  - [Naviguer de journées en journées des championnats](#naviguer-de-journées-en-journées-des-championnats)
   - [Page « Mon compte »](#page--mon-compte-)
   - [Page « Contacter »](#page--contacter-)
   - [Page « Gestion » - Back-office](#page--gestion----back-office)
