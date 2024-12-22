@@ -41,8 +41,8 @@ Sommaire
 
 ### Préambule
 
-Je m’appelle Stephen, je suis joueur compétiteur au club de la Frette sur Seine –ESFTT depuis 2009, et développeur.
-En 2019, je suis capitaine de mon équipe et je rencontre des problématiques auxquelles nous avons toujours fait face ; sans application ou site web dédié, il n’est pas facile pour l’ensemble des capitaines d’avoir la vision des disponibilités des joueurs, des compositions d’équipes et de visualiser le brûlage des joueurs sur toute une phase ou une saison.
+Je m’appelle Stephen, je suis joueur compétiteur au club de la Frette sur Seine – ESFTT depuis 2009, et développeur.
+En 2019, je suis capitaine de mon équipe et je rencontre des problématiques auxquelles nous avons toujours fait face : sans application ou site web dédié, il n’est pas facile pour l’ensemble des capitaines d’avoir la vision des disponibilités des joueurs, des compositions d’équipes et de visualiser le brûlage des joueurs sur toute une phase ou une saison.
 
 C’est pourquoi en 2020, après avoir constaté qu’il n’existait aucune plateforme pour profiter de telles fonctionnalités, j’ai décidé de créer **Kompo**, un site web répondant à toutes ces problématiques de la vie compétitive d’un club de tennis de table.
 Kompo est en évolution constante et en phase de tests depuis plus de 4 ans et j’estime qu’aujourd’hui, le projet est suffisamment avancé pour vous le proposer à la rentrée **2025-2026**.
