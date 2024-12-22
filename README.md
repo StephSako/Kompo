@@ -105,7 +105,7 @@ En J2, une 🔥 violette dans le tableau de droite est affichée pour les joueur
 
 À la validation de l’équipe, lorsque deux joueurs « brûlés spécifique J2 » sont sélectionnés, un message d’erreur apparait.
 
-#### (3) - Compositions d'équipes et rencontres
+### (3) - Compositions d'équipes et rencontres
 
 _Cette page de composition d’équipe sera expliquée plus en détails dans le chapitre **(3) Composition d’équipe**._
 
