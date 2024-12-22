@@ -95,11 +95,11 @@ Le (❕) orange indique que le joueur est **pré-brûlé** dans l’équipe; c�
 <p align="center"><img alt="brulage_exemples" width="50%" src="https://raw.githubusercontent.com/StephSako/Kompo/refs/heads/main/illustrations/brulage_exemples.PNG"></p>
 
 - Noel a joué un match en 2 en J1 et deux matches en 4 en J2 et J3 : il est donc **pré-brûlé** en 3 et 4, et **brûlé** en 5.
-  - Par exemple, s’il est sélectionné en équipe 3 pour cette J5, il deviendra **brûlé** en 4 (en plus de la 5) pour les prochaines journées.
-- Rudy a joué un match en équipe 1 en J1 et un match en équipe 2 en J3 : il est donc **brûlé** en 3, 4 et 5 ;
-- Remy a joué un match en 1 en J1 et 3 matches en 2 en J2, J3 et J4 : il est donc **pré-brûlé** en 2, et **brûlé** en 3, 4 et 5 ;
-- Enfin, Cédric n’a joué qu’un match en 3 en J2 : il est seulement **pré-brûlé** en 4 et 5.
-  - Par exemple, s’il est sélectionné en équipe 1 lors de cette J5, il sera alors **pré-brûlé** en 2 et 3, et **brûlé** en 4 et 5 à l’issu de cette J5.
+  - Par exemple, s’il est sélectionné en 3 pour cette J5, il deviendra **brûlé** en 4 (en plus de la 5) pour les prochaines journées.
+- Rudy a joué un match en 1 en J1 et un match en 2 en J3 : il est donc **brûlé** en 3, 4 et 5 ;
+- Remy a joué un match en 1 en J1 et trois matches en 2 en J2, J3 et J4 : il est donc **pré-brûlé** en 2, et **brûlé** en 3, 4 et 5 ;
+- Enfin, Cédric a joué un match en 3 en J2 : il est seulement **pré-brûlé** en 4 et 5.
+  - Par exemple, s’il est sélectionné en 1 lors de cette J5, il deviendra **pré-brûlé** en 2 et 3, et **brûlé** en 4 et 5 à l’issu de cette J5.
 
 #### Brûlage spécifique J2
 
