@@ -121,7 +121,7 @@ Des fonctionnalités sont disponibles en cliquant sur les différents boutons :
 <p align="center"><img alt="poule" width="90%" src="https://raw.githubusercontent.com/StephSako/Kompo/refs/heads/main/illustrations/poule.PNG"></p>
 
 - **Cliquer sur le nom de l’adversaire :** affichage de ses informations de localisation et de contact (l’adresse, le nom du gymnase/complexe sportif avec d’éventuelles indications d’accès, le numéro de téléphone du correspondant en cas d’urgence/imprévue, ainsi que le site Internet du club adversaire).  
-  Pour faciliter les déplacements à l’extérieur, vous pouvez ouvrir le GPS de votre choix en cliquant sur les boutons **Maps** ou **Waze**, qui s’ouvrent directement en mode navigation à l’adresse de l’adversaire. (Le troisième bouton permet de copier-coller l’adresse en un clic).
+  Pour faciliter les déplacements à l’extérieur, vous pouvez ouvrir le GPS de votre choix en cliquant sur les boutons **Maps** ou **Waze**, qui s’ouvrent directement en mode navigation à l’adresse de l’adversaire. _(Le troisième bouton permet de copier-coller l’adresse en un clic)._
 
 <p align="center"><img alt="contact" width="100%" src="https://raw.githubusercontent.com/StephSako/Kompo/refs/heads/main/illustrations/contact.png"></p>
 
@@ -148,6 +148,8 @@ D’autres indicateurs optionnels peuvent être ajoutés pour chaque rencontre d
 <p align="center"><img alt="gestion_equipe_full_options" width="80%" src="https://raw.githubusercontent.com/StephSako/Kompo/refs/heads/main/illustrations/gestion_equipe_full_options.PNG"></p>
 
 #### Composition d'une équipe
+
+<p align="center"><img alt="brulage_selection" width="100%" src="https://raw.githubusercontent.com/StephSako/Kompo/refs/heads/main/illustrations/brulage_selection.PNG"></p>
 
 Lorsque le capitaine sélectionne les joueurs dans son équipe en cliquant sur le bouton vert, plusieurs indicateurs du brûlage et de sélectionnabilité des joueurs lui sont présentés :
 
@@ -184,9 +186,9 @@ Le premier petit encadré compte :
 
 **Cela permet de savoir rapidement si suffisamment de joueurs sont déclarés disponibles et si les équipes sont complètes.**
 
-En dessous, le grand tableau liste tous les compétiteurs en surbrillance selon leurs disponibilités, regroupés par équipes pour plus de lisibilité pour les capitaines.
+En dessous, le grand tableau liste tous les compétiteurs, colorés en fonction de leurs disponibilités et regroupés par équipes.
 
-Pour avoir de la visibilité sur les disponibilités de toute une phase/saison, il suffit de cliquer sur le bouton bleu « Tout afficher » en dessous de la liste :
+Pour avoir de la visibilité sur **les disponibilités de toute une phase/saison**, il suffit de cliquer sur le bouton bleu « Tout afficher » sous la liste :
 
 <p align="center"><img alt="disponible_total" width="60%" src="https://raw.githubusercontent.com/StephSako/Kompo/refs/heads/main/illustrations/disponible_total.PNG"></p>
 
@@ -204,15 +206,15 @@ Le calcul **en temps réel** de vos points **virtuels** est présenté sur la pa
 
 Contrairement à d’autres sites et applications, le calcul des points virtuels sur Kompo est davantage affiné et correspond le plus fidèlement à la réalité : dans son calcul, Kompo se base sur les points mensuels des adversaires au lieu des points officiels.
 
-Le nombre de points gagnés ou perdus est également affiché accompagnée d’une petite courbe visualisant l’évolution de votre classement sur les 2 dernières saisons.
+La courbe dessine l’évolution de votre classement sur les 2 dernières saisons.
 
-Cliquer sur le bouton rond bleu avec l’icône liste en haut à droite de l’encadré ouvre une fenêtre listant les « matches virtuels », c’est-à-dire les matches pas encore validés pris en compte dans le calcul de vos points virtuels.
+Cliquer sur le bouton rond bleu avec l’icône « liste » ouvre une fenêtre listant les « matches virtuels », c’est-à-dire les matches pas encore validés et pris en compte dans le calcul des points virtuels.
 
 <p align="center"><img alt="liste_matches_virtuels" width="40%" src="https://raw.githubusercontent.com/StephSako/Kompo/refs/heads/main/illustrations/liste_matches_virtuels.PNG"></p>
 
 ### (6) - Barre de navigation
 
-La partie gauche de la barre de navigation permet de naviguer de journée en journée du championnat sélectionné en cliquant sur les dates. Les journées marquées d’une coche verte signifient qu’elles sont passées.
+La partie gauche de la barre de navigation permet de naviguer de journée en journée du championnat sélectionné en cliquant sur les dates. Les journées marquées d’une coche verte indiquent qu’elles sont passées.
 
 Le menu déroulant à droite des dates permet de passer d’un championnat à un autre.
 
@@ -224,14 +226,13 @@ Ce petit bouton présent dans un coin vous permet de naviguer directement à la 
 
 #### Page « Mon compte »
 
-<p align="center"><img alt="mon_compte_1" width="80%" src="https://raw.githubusercontent.com/StephSako/Kompo/refs/heads/main/illustrations/mon_compte_1.jpg"></p>
-<p align="center"><img alt="mon_compte_2" width="80%" src="https://raw.githubusercontent.com/StephSako/Kompo/refs/heads/main/illustrations/mon_compte_2.jpg"></p>
+<p align="center"><img alt="mon_compte" width="100%" src="https://raw.githubusercontent.com/StephSako/Kompo/refs/heads/main/illustrations/mon_compte.png"></p>
 
-Cette page permet à chaque membre de gérer ses informations telles que son identifiant, ses informations de contact* (une adresse email obligatoire et un numéro de téléphone optionnel), son mot de passe et son image de profil.
+Cette page permet à chaque membre de gérer ses informations telles que son identifiant, ses informations de contact (une adresse email obligatoire et un numéro de téléphone optionnel), son mot de passe et son image de profil.
 
-Il peut également savoir quels rôles lui sont attribués sur Kompo, à quelle saison il deviendra renouveler son certificat médical ainsi que les équipes dans lesquelles il est titularisé.
+Il peut également savoir quels rôles lui sont attribué sur Kompo, à quelle saison il deviendra renouveler son certificat médical ainsi que les équipes dans lesquelles il est titularisé.
 
-Kompo peut accueillir tous les membres de votre club et il existe plusieurs niveaux de rôles :
+Kompo peut accueillir tous les membres (**licenciés**) de votre club et il existe plusieurs niveaux de rôles :
 
 - **Niveau 1 : Administrateur**
 
@@ -240,7 +241,7 @@ Kompo peut accueillir tous les membres de votre club et il existe plusieurs nive
 - **Niveau 2 : Capitaines**
 
   - Back-office : accès restreint _(le back-office sera expliqué plus bas)_;
-  - Gestion des compositions d’équipe ;
+  - Gestion des compositions d’équipe;
 
 - **Niveau 3 : Compétiteur** (rôle additionnels : **Jeune** et **Critérium fédéral**)
 
@@ -269,28 +270,28 @@ La dernière catégorie nommée **Personnalisée** permet de créer une liste pe
 
 <p align="center"><img alt="contacter_personnalisee" width="100%" src="https://raw.githubusercontent.com/StephSako/Kompo/refs/heads/main/illustrations/contacter_personnalisee.png"></p>
 
-Sur mobile, des boutons supplémentaires apparaissent pour ouvrir l’application par défaut de votre téléphone pour appeler, envoyer un SMS ou un message via WhatsApp au membre.
+Sur mobile, des boutons supplémentaires apparaissent pour ouvrir l’application par défaut de votre téléphone pour appeler, envoyer un SMS ou un message via WhatsApp.
 
 <p align="center"><img alt="contacter_responsive" width="40%" src="https://raw.githubusercontent.com/StephSako/Kompo/refs/heads/main/illustrations/contacter_responsive.PNG"></p>
 
 #### Page « Gestion » - Back-office
 
-Le back-office est le portail administrateur uniquement accessible et visible via la barre de navigation pour les administrateurs et les capitaines. Ce portail permet l’administration de :
+Le back-office est le portail administrateur uniquement accessible et visible via la barre de navigation pour les administrateurs et les capitaines. Ce portail permet l’administration :
 
-- le compte Club;
-- les membres :
+- du compte du club sur Kompo;
+- des membres :
 
 <p align="center"><img alt="gestion_membres" width="100%" src="https://raw.githubusercontent.com/StephSako/Kompo/refs/heads/main/illustrations/gestion_membres.PNG"></p>
 
-- les championnats enregistrés :
+- des championnats enregistrés :
 
 <p align="center"><img alt="gestion_championnats" width="100%" src="https://raw.githubusercontent.com/StephSako/Kompo/refs/heads/main/illustrations/gestion_championnats.PNG">
 
-- les rencontres : ajout de consignes, décalage de rencontres, avertissement de salles indisponibles, gérer les heures de rendez-vous intégrées dans les convocations, etc. ;
+- des rencontres : ajout de consignes, décalage de rencontres, avertissement de salles indisponibles, gérer les heures de rendez-vous intégrées dans les convocations, etc. ;
 
 <p align="center"><img alt="gestion_rencontres" width="100%" src="https://raw.githubusercontent.com/StephSako/Kompo/refs/heads/main/illustrations/gestion_rencontres.PNG"></p>
 
-- les équipes et les joueurs titulaires :
+- des équipes et des joueurs titulaires :
 
 <p align="center"><img alt="gestion_equipes" width="100%" src="https://raw.githubusercontent.com/StephSako/Kompo/refs/heads/main/illustrations/gestion_equipes.PNG"></p>
 
@@ -298,27 +299,25 @@ Le back-office est le portail administrateur uniquement accessible et visible vi
 
 <p align="center"><img alt="gestion_equipes_titulaires_2" width="100%" src="https://raw.githubusercontent.com/StephSako/Kompo/refs/heads/main/illustrations/gestion_equipes_titulaires_2.PNG"></p>
 
-- les disponibilités à la place des joueurs en cas d’urgence :
+- des disponibilités _(en cas d’urgence à la place des joueurs)_ :
 
 <p align="center"><img alt="gestion_disponibilites" width="100%" src="https://raw.githubusercontent.com/StephSako/Kompo/refs/heads/main/illustrations/gestion_disponibilites.PNG"></p>
 
-- page de mise à jour simplifiée de toute la phase/saison :
+- page de mise à jour simplifiée :
 
   - du classement officiel des joueurs tous les 6 mois :
 
   <p align="center"><img style="margin: 10px auto 28px auto;" alt="gestion_api_fftt_membres" width="100%" src="https://raw.githubusercontent.com/StephSako/Kompo/refs/heads/main/illustrations/gestion_api_fftt_membres.PNG"></p>
 
-  - des équipes, poules, journées et rencontres de la phase en un clic par récupération des données via l’API de la FFTT :
+  - de toute la phase/saison : les équipes, poules, journées et rencontres en un clic _(par récupération des données via l’API de la FFTT)_ :
 
 <p align="center"><img alt="fftt_api_championnat" width="100%" src="https://raw.githubusercontent.com/StephSako/Kompo/refs/heads/main/illustrations/fftt_api_championnat.png"></p>
 
 ### Pied de page – Liens et pages d’informations
 
-Un pied de page est présent en bas de chaque page.
+C’est depuis le back-office que vous avez la possibilité de gérer le contenu de ce pied de page, auquel vous pouvez y ajouter :
 
-C’est depuis le back-office que vous avez la possibilité de gérer le contenu de ce pied de page, dans lequel vous pouvez y ajouter :
-
-- des accès vers des pages d’informations que vous pouvez administrer grâce à un éditeur de texte. Il est même possible de créer des pages collaboratives : c’est-à-dire que tous les membres peuvent eux-mêmes en modifier le contenu via l’éditeur ;
+- des accès vers des pages d’informations que vous pouvez administrer grâce à un éditeur de texte. Il est même possible de créer des pages collaboratives : c’est-à-dire que tous les membres peuvent également en modifier le contenu via l’éditeur;
 
 _<p align="center">Éditeur</p>_
 
@@ -330,7 +329,7 @@ _<p align="center">Rendu visuel</p>_
 
 <p align="center"><img alt="footer_ckeditor_rendu" width="100%" src="https://raw.githubusercontent.com/StephSako/Kompo/refs/heads/main/illustrations/footer_ckeditor_rendu.png"></p>
 
-- des liens vers des pages externes, comme le lien du site Internet de votre club, de la FFTT, etc.
+- des liens vers des pages externes, comme le site de votre club, le site de la FFTT, etc.
 
 ### Abonnement
 
@@ -339,10 +338,10 @@ La saison 2025-2026 sera entièrement gratuite à tous les clubs. Cela laisse le
 À partir de la 2026-2027, un abonnement annuel sera proposé, dont voici les conditions :
 
 - l’abonnement sera calculé en fonction du nombre d’équipes gérées dans Kompo **tout championnat par équipe confondu**, à savoir **0,50€ par équipe**. C’est pour moi la solution la plus équilibrée par rapport à un abonnement à prix fixe vis-à-vis des petits clubs n’ayant pas un grand nombre d’équipes à gérer.  
-  De plus, à l’inscription de votre club ainsi que depuis la page dédiée du back-office pour gérer votre club, il vous sera possible de choisir les championnats que vous souhaitez gérer.
+  De plus, à l’inscription de votre club ainsi que depuis le back-office, il vous sera possible de choisir les championnats que vous souhaitez gérer.
 
-- un abonnement annuel sera valable du jour de la souscription à l’abonnement jusqu’au prochain 31 Juillet à venir ;
+- un abonnement annuel sera valable du jour de la souscription jusqu’au prochain 31 Juillet;
 
-- tout club souscrivant durant le mois de Janvier aura une réduction de 30% sur son abonnement (abonnement valide jusqu’au **31 Juillet de la même année**) ;
+- tout club souscrivant durant le mois de Janvier aura une réduction de 30% sur son abonnement (abonnement valide jusqu’au **31 Juillet de la même année**);
 
 - tout club du 95 – Val d’Oise souscrivant avant le **30 Décembre 2025** verra son **abonnement pour la saison 2026-2027 divisé par deux** et fera partie du **Club des Ambassadeurs**.
