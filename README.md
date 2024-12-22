@@ -6,7 +6,7 @@
 
 **Kompo** est la plateforme web qui permet aux clubs de tennis de table de composer leurs équipes en lice dans différents championnats par équipes, selon la gestion automatisée du brûlage et les disponibilités déclarées de leurs joueurs.
 
-Trois championnats sont d’ores et déjà disponibles : le **championnat par équipe départemental**, le **championnat de paris** et le **championnat vétérans**. D’autres championnats comme le championnat départemental par équipe féminin ainsi que les championnats jeunes par exemple, seront intégrés prochainement.
+Trois championnats sont d’ores et déjà disponibles : le **championnat par équipe départemental**, le **championnat de Paris** et le **championnat vétérans**. D’autres championnats comme le championnat départemental par équipe féminin ainsi que les championnats jeunes par exemple, seront intégrés prochainement.
 
 Un tableau récapitulatif et évolutif pour chaque journée permet de visualiser le brûlage pour chaque joueur. L’anticipation du brûlage sur toute la phase est maintenant possible !
 
@@ -182,7 +182,7 @@ Le premier petit encadré compte :
 
 - le nombre de joueurs déclarés disponibles sur le nombre total de compétiteurs ;
 - le nombre de joueurs sélectionnés en équipes sur le nombre total de **places disponibles pour l’ensemble des équipes**.  
-  Par exemple, pour cinq équipes du championnat départemental à 4 joueurs, le total sera de 20 places, alors que pour le championnat de paris, avec une équipe de promotion d’honneur (9 joueurs) et deux équipes de D2 (3 joueurs + 3 joueurs), le total sera de 15 places.
+  Par exemple, pour cinq équipes du championnat départemental à 4 joueurs, le total sera de 20 places, alors que pour le championnat de Paris, avec une équipe de promotion d’honneur (9 joueurs) et deux équipes de D2 (3 joueurs + 3 joueurs), le total sera de 15 places.
 
 **Cela permet de savoir rapidement si suffisamment de joueurs sont déclarés disponibles et si les équipes sont complètes.**
 
