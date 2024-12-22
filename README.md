@@ -24,7 +24,7 @@ Enfin, **Kompo** est entièrement adapté aux mobiles ; il n’y aura aucune dif
 
 Sommaire
 
-- Préambule
+- [Préambule](#préambule)
 - [Plus en détails](#plus-en-détails-)
 - [(1) - Déclaration de sa disponibilité](#1---déclaration-de-sa-disponibilité)
 - [(2) - Brûlage et sélectionnabilité des compétiteurs](#2---brûlage-et-sélectionnabilité-des-compétiteurs)
