@@ -4,15 +4,15 @@
 
 <p align="center"><img width="100%" src="https://raw.githubusercontent.com/StephSako/Kompo/refs/heads/main/illustrations/accueil_general.png" alt="accueil_general"></p>
 
-**Kompo** est la plateforme web qui permettra aux clubs de tennis de table de composer leurs équipes en lice dans différents championnats par équipes, selon la gestion automatisée du brûlage et les disponibilités déclarées de leurs joueurs.
+**Kompo** est la plateforme web qui permet aux clubs de tennis de table de composer leurs équipes en lice dans différents championnats par équipes, selon la gestion automatisée du brûlage et les disponibilités déclarées de leurs joueurs.
 
-Trois championnats sont d’ores et déjà disponibles : le **championnat par équipe départemental**, le **championnat de paris** et le **championnat vétérans**. D’autres championnats comme le championnat départemental par équipe féminin ainsi que les championnats jeunes par exemple, seront intégrés au fur et à mesure.
+Trois championnats sont d’ores et déjà disponibles : le **championnat par équipe départemental**, le **championnat de paris** et le **championnat vétérans**. D’autres championnats comme le championnat départemental par équipe féminin ainsi que les championnats jeunes par exemple, seront intégrés prochainement.
 
-Un tableau récapitulatif et évolutif à chaque journée présente le brûlage pour chaque joueur,. Cela facilite l’anticipation du brûlage sur toute la phase !
+Un tableau récapitulatif et évolutif pour chaque journée permet de visualiser le brûlage pour chaque joueur. L’anticipation du brûlage sur toute la phase est maintenant possible !
 
-D’autres fonctionnalités utiles à la vie sportive et compétitive en amont des matches seront présentées tout au long de cette présentation.
+D’autres fonctionnalités utiles à la vie sportive et compétitive **en amont** des matches seront présentées tout au long de cette présentation.
 
-Enfin, **Kompo** est entièrement adapté aux mobiles ; il n’y aura aucune difficulté à déclarer sa disponibilité et à gérer son équipe directement depuis son smartphone !
+Enfin, **Kompo** est entièrement adapté aux mobiles : il n’y a aucune difficulté à déclarer sa disponibilité et à gérer son équipe directement depuis son smartphone !
 
 <div style="width: 100%; display: flex; justify-content: space-evenly;">
   <p align="center">
@@ -22,9 +22,9 @@ Enfin, **Kompo** est entièrement adapté aux mobiles ; il n’y aura aucune dif
   </p>
 </div>
 
-Sommaire
+<br>Sommaire
 
-- [Préambule](#préambule)
+- [Contexte](#contexte)
 - [Plus en détails](#plus-en-détails-)
 - [(1) - Déclaration de sa disponibilité](#1---déclaration-de-sa-disponibilité)
 - [(2) - Brûlage et sélectionnabilité des compétiteurs](#2---brûlage-et-sélectionnabilité-des-compétiteurs)
@@ -39,15 +39,18 @@ Sommaire
 - [Pied de page – Liens et pages d’informations](#pied-de-page--liens-et-pages-dinformations)
 - [Abonnement](#abonnement)
 
-### Préambule
+### Contexte
 
 Je m’appelle Stephen, je suis joueur compétiteur au club de la Frette sur Seine – ESFTT depuis 2009, et développeur.  
-En 2019, je deviens capitaine d'équipe et je rencontre des certaines problématiques que partagent mes autres collègues capitaines : sans application ou site web dédié, il n’est pas facile pour l’ensemble des capitaines d’avoir la vision des disponibilités des joueurs, des compositions d’équipes et de visualiser le brûlage des joueurs sur toute une phase ou une saison.
+En 2019, je deviens capitaine d'équipe et je rencontre certaines problématiques que partagent également mes autres collègues capitaines, et ce de manière systématique : sans application/site web dédié, il n’est pas facile pour l’ensemble des capitaines d’avoir la visibilité sur l'ensemble des disponibilités des joueurs, des compositions d’équipes et du brûlage sur toute une phase/saison.
 
-C’est pourquoi en 2020, après avoir constaté qu’il n’existait **aucune** plateforme pour profiter de telles fonctionnalités, j’ai décidé de créer **Kompo**, un site web répondant à toutes ces problématiques de la vie compétitive d’un club de tennis de table.
-Kompo est en évolution constante et en phase de tests depuis plus de 4 ans et j’estime qu’aujourd’hui, le projet est suffisamment avancé pour vous le proposer à la rentrée **2025-2026**.
+C’est pourquoi en 2020, après avoir constaté qu’il n’existait **aucune** plateforme de ce type pour profiter de telles fonctionnalités, j’ai décidé de créer **Kompo**, un site web répondant à toutes ces **problématiques de la vie compétitive d’un club de tennis de table**.
 
-En 2024, grâce aux Jeux Olympiques de Paris et au succès des Français sur la scène internationale, le ping attire de plus en plus de licenciés dans toute la France et davantage d’équipes ont été inscrites cette année, c’est pourquoi Kompo vous aidera à gérer toutes ces problématiques tout au long de votre saison.
+Kompo est en évolution constante et en phase de tests depuis plus de 4 ans, et j’estime qu’aujourd’hui ce projet est suffisamment avancé et stable pour la rentrée **2025-2026**.
+
+De plus en 2024, grâce à l'engouement lors les Jeux Olympiques de Paris et au succès des Français sur la scène internationale, le ping attire de plus en plus de licenciés dans toute la France et davantage d’équipes ont été inscrites cette année, c’est pourquoi Kompo vous aidera à gérer toutes ces problématiques tout au long de votre saison.
+
+<br><br>
 
 **_Les idées originales de ce projet, telles que la gestion informatisée et automatisée du brûlage des joueurs compétiteurs ainsi que leurs développements, sont protégées par le droit d’auteur par dépôt d’une enveloppe Soleau auprès de l’INPI._**
 
@@ -61,13 +64,17 @@ En 2024, grâce aux Jeux Olympiques de Paris et au succès des Français sur la 
 
 <p align="center"><img width="70%" src="https://raw.githubusercontent.com/StephSako/Kompo/refs/heads/main/illustrations/declarer_disponibilite.png" alt="declarer_disponibilite"></p>
 
-Tout joueur compétiteur peut déclarer sa disponibilité pour chaque journée ; disponible ou indisponible. Il est possible de modifier sa disponibilité à tout moment avant que la journée ne soit terminée.
+Tout joueur compétiteur peut déclarer sa disponibilité pour chaque journée sur la page d'accueil, _disponible_ ou _indisponible_.
+
+Il est possible de modifier sa disponibilité au plus tard le jour de la rencontre.
+
+Un joueur ne peut pas être sélectionné dans une équipe s'il n'a pas déclaré sa disponiblité.
 
 Si le joueur est sélectionné dans une équipe, ça le lui sera signalé.
 
 <p align="center"><img width="70%" src="https://raw.githubusercontent.com/StephSako/Kompo/refs/heads/main/illustrations/disponible_selectionne.PNG" alt="disponible_selectionne"></p>
 
-S’il se déclare disponible, puis ensuite indisponible en étant déjà sélectionné dans une équipe, il sera supprimé de la composition de l’équipe en question.
+Si un joueur modifie sa disponibilité en _indisponible_ en étant déjà sélectionné dans une équipe, il sera supprimé de la composition de l’équipe en question.
 
 ### (2) - Brûlage et sélectionnabilité des compétiteurs
 
@@ -77,18 +84,19 @@ Ce tableau liste tous les compétiteurs associés à leurs brûlages.
 
 Pour rappel, _un joueur ayant disputé deux rencontres d'une même phase, consécutives ou non, dans une même équipe ou dans des équipes différentes de son club, ne peut plus participer au championnat dans une équipe de numéro supérieur à cette ou ces équipes._
 
-Dans le tableau, une 🔥 rouge indique que le joueur est **brulé** dans l’équipe et ne peux donc pas y être sélectionné, en se référant aux numéros d’équipes en en-têtes de chaque colonne.
+Dans ce tableau, une 🔥 rouge indique que le joueur est **brulé** dans l’équipe et ne peux donc pas y être sélectionné, en se référant aux numéros d’équipes en en-têtes de chaque colonne.
 
-Le ❕ orange indique que le joueur est **pré-brûlé** dans l’équipe, c’est-à-dire qu’à partir de maintenant, s’il est sélectionné dans une équipe au-dessus, il y sera brûlé à partir de la journée d’après.
-**_C’est une alerte pour de futurs brûlés sur les journées à venir et ainsi de faire de meilleures prévisions sur les compos d’équipes._**
+Le (❕) orange indique que le joueur est **pré-brûlé** dans l’équipe; c’est-à-dire qu’à partir de maintenant, s’il est sélectionné dans une équipe au-dessus, il y sera brûlé à partir de la journée d’après.
+
+**_C’est une alerte pour de futurs brûlés sur les journées à venir et ainsi de faire de meilleures prévisions sur les compositions d’équipes._**
 
 **Exemple de brûlages à la J5 :**
 
 <p align="center"><img alt="brulage_exemples" width="50%" src="https://raw.githubusercontent.com/StephSako/Kompo/refs/heads/main/illustrations/brulage_exemples.PNG"></p>
 
-- Rudy a joué un match en équipe 1 en J1 et un match en équipe 2 en J3 : il est donc **brûlé** en 3, 4 et 5 ;
 - Noel a joué un match en 2 en J1 et deux matches en 4 en J2 et J3 : il est donc **pré-brûlé** en 3 et 4, et **brûlé** en 5.
   - Par exemple, s’il est sélectionné en équipe 3 pour cette J5, il deviendra **brûlé** en 4 (en plus de la 5) pour les prochaines journées.
+- Rudy a joué un match en équipe 1 en J1 et un match en équipe 2 en J3 : il est donc **brûlé** en 3, 4 et 5 ;
 - Remy a joué un match en 1 en J1 et 3 matches en 2 en J2, J3 et J4 : il est donc **pré-brûlé** en 2, et **brûlé** en 3, 4 et 5 ;
 - Enfin, Cédric n’a joué qu’un match en 3 en J2 : il est seulement **pré-brûlé** en 4 et 5.
   - Par exemple, s’il est sélectionné en équipe 1 lors de cette J5, il sera alors **pré-brûlé** en 2 et 3, et **brûlé** en 4 et 5 à l’issu de cette J5.
