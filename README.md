@@ -1,6 +1,6 @@
 # <p align="center">Kompo – Brûlage des joueurs et compositions d’équipes</p>
 
-### <p align="center">Outil de gestion de la vie compétitive d’un club de tennis de table</p>
+### <p align="center">Outil de gestion de la vie compétitive d’un club de tennis de table</p><br>
 
 <p align="center"><img width="100%" src="https://raw.githubusercontent.com/StephSako/Kompo/refs/heads/main/illustrations/accueil_general.png" alt="accueil_general"></p>
 
