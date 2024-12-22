@@ -34,13 +34,14 @@ Enfin, **Kompo** est entièrement adapté aux mobiles : il n’y a aucune diffic
 - [(4) - Tableau des disponibilités](#4---tableau-des-disponibilités)
 - [(5) - Calcul des points virtuels](#5---calcul-des-points-virtuels)
 - [(6) - Barre de navigation](#6---barre-de-navigation)
+  - [Naviguer de journées en journées des championnats}(#naviguer-de-journées-en-journées-des-championnats)
   - [Page « Mon compte »](#page--mon-compte-)
   - [Page « Contacter »](#page--contacter-)
   - [Page « Gestion » - Back-office](#page--gestion----back-office)
 - [Pied de page – Liens et pages d’informations](#pied-de-page--liens-et-pages-dinformations)
 - [Abonnement](#abonnement)
 
-### Contexte
+## Contexte
 
 Je m’appelle Stephen, je suis joueur compétiteur au club de la Frette sur Seine – ESFTT depuis 2009, et développeur.  
 En 2019, je deviens capitaine d'équipe et je rencontre certaines problématiques que partagent également mes autres collègues capitaines, et ce de manière systématique : sans application/site web dédié, il n’est pas facile pour l’ensemble des capitaines d’avoir la visibilité sur l'ensemble des disponibilités des joueurs, des compositions d’équipes et du brûlage sur toute une phase/saison.
@@ -214,6 +215,8 @@ Cliquer sur le bouton rond bleu avec l’icône « liste » ouvre une fenêtre l
 <p align="center"><img alt="liste_matches_virtuels" width="40%" src="https://raw.githubusercontent.com/StephSako/Kompo/refs/heads/main/illustrations/liste_matches_virtuels.PNG"></p>
 
 ### (6) - Barre de navigation
+
+#### Naviguer de journées en journées des championnats
 
 La partie gauche de la barre de navigation permet de naviguer de journée en journée du championnat sélectionné en cliquant sur les dates. Les journées marquées d’une coche verte indiquent qu’elles sont passées.
 
