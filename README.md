@@ -29,7 +29,7 @@ Enfin, **Kompo** est entièrement adapté aux mobiles : il n’y a aucune diffic
 - [(1) - Déclaration de sa disponibilité](#1---déclaration-de-sa-disponibilité)
 - [(2) - Brûlage et sélectionnabilité des compétiteurs](#2---brûlage-et-sélectionnabilité-des-compétiteurs)
   - [Brûlage spécifique J2](#brûlage-spécifique-j2)
-- [(3) - Compositions d'équipes et rencontres](#3---compositions-déquipes-et-rencontres)
+- [(3) - Compositions d'une équipe et indicateurs des rencontres](#3---compositions-dune-équipe-et-indicateurs-des-rencontres)
 - [(4) - Tableau des disponibilités](#4---tableau-des-disponibilités)
 - [(5) - Calcul des points virtuels](#5---calcul-des-points-virtuels)
 - [(6) - Barre de navigation](#6---barre-de-navigation)
@@ -101,36 +101,9 @@ Le (❕) orange indique que le joueur est **pré-brûlé** dans l’équipe; c�
 - Enfin, Cédric a joué un match en 3 en J2 : il est seulement **pré-brûlé** en 4 et 5.
   - Par exemple, s’il est sélectionné en 1 lors de cette J5, il deviendra **pré-brûlé** en 2 et 3, et **brûlé** en 4 et 5 à l’issu de cette J5.
 
-#### Brûlage spécifique J2
+### (3) - Compositions d'une équipe et indicateurs des rencontres
 
-Le **brûlage spécifique de la J2** est géré dans Kompo pour les championnats qui y sont soumis.
-
-Pour rappel, _lors de la 2ème journée de la phase, une équipe ne peut pas comporter plus d'un joueur ayant disputé la 1ère journée de la phase dans une équipe de numéro inférieur (applicable pour le championnat par équipes à trois ou quatre joueurs)._
-
-<p align="center"><img alt="brulage_J2_selection" width="100%" src="https://raw.githubusercontent.com/StephSako/Kompo/refs/heads/main/illustrations/brulage_J2_selection.PNG"></p>
-
-En J2, une 🔥 violette dans le tableau de droite est affichée pour les joueurs ayant joué dans une équipe au-dessus lors de la J1.
-
-À la validation de l’équipe, lorsque deux joueurs « brûlés spécifique J2 » sont sélectionnés, un message d’erreur apparait.
-
-### (3) - Compositions d'équipes et rencontres
-
-_Cette page de composition d’équipe sera expliquée plus en détails dans le chapitre **(3) Composition d’équipe**._
-
-<p align="center"><img alt="brulage_selection" width="100%" src="https://raw.githubusercontent.com/StephSako/Kompo/refs/heads/main/illustrations/brulage_selection.PNG"></p>
-
-L’une des forces de Kompo réside dans sa gestion et son contrôle du brûlage des joueurs dans les compositions d’équipes pré et post journées.
-
-Lorsque le capitaine compose son équipe, plusieurs indicateurs du brûlage et de sélectionnabilité des joueurs lui sont présentés :
-
-- **À gauche :** la liste des joueurs brûlés dans l’équipe;
-- **À droite :** la liste des joueurs sélectionnables dans l’équipe (joueurs non sélectionnés dans une autre équipe, déclarés disponibles et non brûlés).  
-  Le brûlage de cette liste affiche le **brûlage prévisionnel à J+1**, c’est-à-dire le brûlage qu’aura le joueur à la prochaine journée s’il est sélectionné dans cette équipe pour cette journée.
-- **Au centre :** des listes déroulantes sont présentes pour chaque joueur à sélectionner. Ces listes déroulantes reprennent naturellement la liste des joueurs **sélectionnables**.
-
-<p align="center"><img alt="selection_liste_joueurs" width="70%" src="https://raw.githubusercontent.com/StephSako/Kompo/refs/heads/main/illustrations/selection_liste_joueurs.PNG"></p>
-
-De plus, si un joueur est déjà sélectionné dans une ou plusieurs équipes et qu’il y devient brûlé suite à une sélection lors d’une journée antérieure, il est automatiquement supprimé des équipes dans lesquelles il est brûlé pour toutes les prochaines journées.
+<p align="center"><img alt="gestion_equipe_general" width="90%" src="https://raw.githubusercontent.com/StephSako/Kompo/refs/heads/main/illustrations/gestion_equipe_general.PNG"></p>
 
 Toutes les équipes sont affichées par ordre de numéro d’équipe. De multiples indicateurs sont présents : la division, la poule, le lieu de la rencontre (icône de maison pour domicile ou icône de voiture pour extérieur), le nom de l’adversaire et bien entendu, la liste des joueurs sélectionnés par le capitaine.
 
@@ -156,12 +129,10 @@ Des fonctionnalités sont disponibles en cliquant sur les différents boutons :
 
 <p align="center"><img alt="adversaires_dernieres_compos" width="80%" src="https://raw.githubusercontent.com/StephSako/Kompo/refs/heads/main/illustrations/adversaires_dernieres_compos.png"></p>
 
-**Boutons affichés uniquement aux capitaines :**
+**Boutons affichés uniquement aux capitaines sous la liste des joueurs :**
 
-En dessous de la liste des joueurs :
-
-- **Cliquer sur le bouton vert :** aller vers la page d’édition de la composition d’équipe vue précédemment ;
-- **Cliquer sur le bouton bleu avec l’icône de porte-voix :** envoyer la convocation aux joueurs, soit par email soit par SMS. Un message préconstruit vous est proposé à l’ouverture de votre application de SMS/mail par défaut en reprenant toutes les informations de la rencontre : date, lieu et heure de rendez-vous, lieu de la rencontre, nom de l’équipe adversaire, consignes particulières et liste des joueurs sélectionnés.  
+- **Cliquer sur le bouton vert :** aller vers la page de composition de l'équipe.
+- **Cliquer sur le bouton bleu « porte-voix » :** envoyer la convocation aux joueurs, soit par email soit par SMS. Un message préconstruit vous est proposé à l’ouverture de votre application de SMS/mail par défaut en reprenant toutes les informations de la rencontre : date, lieu et heure de rendez-vous, lieu de la rencontre, nom de l’équipe adversaire, consignes particulières et liste des joueurs sélectionnés.  
   Un joueur n’ayant pas renseigné son numéro de téléphone ou ayant décoché une des cases « Contactable » dans son compte ne recevra pas de convocations.
 
 <p align="center"><img alt="gestion_equipe_convocation" width="100%" src="https://raw.githubusercontent.com/StephSako/Kompo/refs/heads/main/illustrations/gestion_equipe_convocation.png"></p>
@@ -175,6 +146,31 @@ D’autres indicateurs optionnels peuvent être ajoutés pour chaque rencontre d
 - indications d’accès, consignes pour le début/fin des rencontres, etc.
 
 <p align="center"><img alt="gestion_equipe_full_options" width="80%" src="https://raw.githubusercontent.com/StephSako/Kompo/refs/heads/main/illustrations/gestion_equipe_full_options.PNG"></p>
+
+#### Composition d'une équipe
+
+Lorsque le capitaine sélectionne les joueurs dans son équipe en cliquant sur le bouton vert, plusieurs indicateurs du brûlage et de sélectionnabilité des joueurs lui sont présentés :
+
+- **À gauche :** la liste des joueurs brûlés dans l’équipe.
+- **À droite :** la liste des joueurs sélectionnables dans l’équipe (joueurs non sélectionnés dans une autre équipe, déclarés disponibles et non brûlés).  
+  Le brûlage de cette liste affiche le **brûlage prévisionnel à J+1**, c’est-à-dire le brûlage qu’aura le joueur à la prochaine journée s’il est sélectionné dans cette équipe pour cette journée.
+- **Au centre :** des listes déroulantes sont présentes pour chaque joueur à sélectionner. Ces listes déroulantes reprennent naturellement la liste des joueurs **sélectionnables**. Si un joueur est déjà sélectionné dans une ou plusieurs équipes des prochaines journées et qu’il y devient brûlé suite à une sélection lors d’une journée antérieure, il est automatiquement supprimé des équipes dans lesquelles il devient brûlé.
+
+<p align="center"><img alt="selection_liste_joueurs" width="70%" src="https://raw.githubusercontent.com/StephSako/Kompo/refs/heads/main/illustrations/selection_liste_joueurs.PNG"></p>
+
+#### Brûlage spécifique J2
+
+Le **brûlage spécifique de la J2** est géré dans Kompo pour les championnats qui y sont soumis.
+
+Pour rappel, _lors de la 2ème journée de la phase, une équipe ne peut pas comporter plus d'un joueur ayant disputé la 1ère journée de la phase dans une équipe de numéro inférieur (applicable pour le championnat par équipes à trois ou quatre joueurs)._
+
+<p align="center"><img alt="brulage_J2_selection" width="100%" src="https://raw.githubusercontent.com/StephSako/Kompo/refs/heads/main/illustrations/brulage_J2_selection.PNG"></p>
+
+À la validation de l’équipe, lorsque deux joueurs « brûlés spécifique J2 » sont sélectionnés, un message d’erreur apparait.
+
+Une 🔥 violette dans le tableau de droite est affichée pour les joueurs « brûlés spécifique J2 ». La 🔥 violette apparait également sur les compos d'équipe en J2 si les joueurs sont brûlés à postériori.
+
+<p align="center"><img alt="brulage_J2_compos" width="100%" src="https://raw.githubusercontent.com/StephSako/Kompo/refs/heads/main/illustrations/brulage_J2_compos.PNG"></p>
 
 ### (4) - Tableau des disponibilités
 
