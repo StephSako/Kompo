@@ -10,7 +10,7 @@ Trois championnats sont d’ores et déjà disponibles : le **championnat par é
 
 Un tableau récapitulatif et évolutif pour chaque journée permet de visualiser le brûlage pour chaque joueur. L’anticipation du brûlage sur toute la phase est maintenant possible !
 
-D’autres fonctionnalités utiles à la vie sportive et compétitive **en amont** des rencontres seront présentées tout au long de cette présentation.
+D’autres fonctionnalités utiles à la vie sportive et compétitive **en amont** des rencontres seront introduites tout au long de cette présentation.
 
 Enfin, **Kompo** est entièrement adapté aux mobiles : il n’y a aucune difficulté à déclarer sa disponibilité et à gérer son équipe directement depuis son smartphone !
 
@@ -34,7 +34,7 @@ Enfin, **Kompo** est entièrement adapté aux mobiles : il n’y a aucune diffic
 - [(4) - Tableau des disponibilités](#4---tableau-des-disponibilités)
 - [(5) - Calcul des points virtuels](#5---calcul-des-points-virtuels)
 - [(6) - Barre de navigation](#6---barre-de-navigation)
-  - [Naviguer de journées en journées des championnats](#naviguer-de-journées-en-journées-des-championnats)
+  - [Naviguer de journée en journée des championnats](#naviguer-de-journée-en-journée-des-championnats)
   - [Page « Mon compte »](#page--mon-compte-)
   - [Page « Contacter »](#page--contacter-)
   - [Page « Gestion » - Back-office](#page--gestion----back-office)
@@ -44,17 +44,17 @@ Enfin, **Kompo** est entièrement adapté aux mobiles : il n’y a aucune diffic
 ## Contexte
 
 Je m’appelle Stephen, je suis joueur compétiteur au club de la Frette sur Seine – ESFTT depuis 2009, et développeur.  
-En 2019, je deviens capitaine d'équipe et je rencontre certaines problématiques que partagent également mes autres collègues capitaines, et ce de manière systématique : sans application/site web dédié, il n’est pas facile pour l’ensemble des capitaines d’avoir la visibilité sur l'ensemble des disponibilités des joueurs, des compositions d’équipes et du brûlage sur toute une phase/saison.
+En 2019, je deviens capitaine d'équipe et je rencontre certaines problématiques que partagent également mes autres collègues capitaines, et ce de manière systématique : sans application/site web dédié, il n’est pas facile pour les capitaines d’avoir une visibilité globale des disponibilités des joueurs, des compositions d’équipes et du brûlage sur toute une phase/saison.
 
 C’est pourquoi en 2020, après avoir constaté qu’il n’existait **aucune** plateforme de ce type pour profiter de telles fonctionnalités, j’ai décidé de créer **Kompo**, un site web répondant à toutes ces **problématiques de la vie compétitive d’un club de tennis de table**.
 
 Kompo est en évolution constante depuis plus de 4 ans, et j’estime qu’aujourd’hui ce projet est suffisamment avancé et complet pour la rentrée **2025-2026**.
 
-De plus en 2024, grâce à l'engouement lors les Jeux Olympiques de Paris et au succès des Français sur la scène internationale, le ping attire de plus en plus de licenciés dans toute la France et davantage d’équipes ont été inscrites cette année, c’est pourquoi Kompo vous aidera à gérer toutes ces problématiques tout au long de votre saison.
+De plus en 2024, grâce à l'engouement pour le tennis de table lors des Jeux Olympiques de Paris et au succès des Français sur la scène internationale, le ping attire de plus en plus de licenciés dans toute la France et davantage d’équipes ont été inscrites cette année, c’est pourquoi Kompo vous aidera à gérer ces problématiques tout au long de votre saison.
 
 <br><br>
 
-**_Les idées originales de ce projet, telles que la gestion informatisée et automatisée du brûlage des joueurs compétiteurs ainsi que leurs développements, sont protégées par le droit d’auteur par dépôt d’une enveloppe Soleau auprès de l’INPI._**
+**_Les idées originales de ce projet, telles que la gestion informatisée et automatisée du brûlage des joueurs compétiteurs ainsi que leurs développements, sont protégées par le droit d’auteur par dépôt d’une enveloppe Soleau auprès de l’I.N.P.I. (Institut National de la Propriété Industrielle)._**
 
 **_Kompo n’est actuellement pas encore en ligne ni disponible aux équipes extérieures à celles du club de la Frette sur Seine._**
 
@@ -72,8 +72,6 @@ Il est possible de modifier sa disponibilité au plus tard le jour de la rencont
 
 Un joueur ne peut pas être sélectionné dans une équipe s'il n'a pas déclaré sa disponiblité.
 
-Si le joueur est sélectionné dans une équipe, ça le lui sera signalé.
-
 <p align="center"><img width="70%" src="https://raw.githubusercontent.com/StephSako/Kompo/refs/heads/main/illustrations/disponible_selectionne.PNG" alt="disponible_selectionne"></p>
 
 Si un joueur modifie sa disponibilité en _indisponible_ en étant déjà sélectionné dans une équipe, il sera supprimé de la composition de l’équipe en question.
@@ -90,7 +88,7 @@ Dans ce tableau, une 🔥 rouge indique que le joueur est **brulé** dans l’é
 
 Le (❕) orange indique que le joueur est **pré-brûlé** dans l’équipe; c’est-à-dire qu’à partir de maintenant, s’il est sélectionné dans une équipe au-dessus, il y sera brûlé à partir de la journée d’après.
 
-**_C’est une alerte pour de futurs brûlés sur les journées à venir et ainsi de faire de meilleures prévisions sur les compositions d’équipes._**
+**_C’est une alerte pour de futurs brûlés sur les journées à venir afin de faire de meilleures prévisions sur les compositions d’équipes._**
 
 **Exemple de brûlages à la J5 :**
 
@@ -122,7 +120,7 @@ Des fonctionnalités sont disponibles en cliquant sur les différents boutons :
 
 <p align="center"><img alt="poule" width="90%" src="https://raw.githubusercontent.com/StephSako/Kompo/refs/heads/main/illustrations/poule.PNG"></p>
 
-- **Cliquer sur le nom de l’adversaire :** affichage de ses informations de localisation et de contact (l’adresse, le nom du gymnase/complexe sportif avec d’éventuelles indications d’accès, le numéro de téléphone du correspondant en cas d’urgence/imprévue, ainsi que le site Internet du club adversaire).  
+- **Cliquer sur le nom de l’adversaire :** affichage de ses informations de localisation et de contact (l’adresse, le nom du gymnase/complexe sportif avec d’éventuelles indications d’accès, le numéro de téléphone du correspondant en cas d’urgence/imprévue, ainsi que le site Internet du club adverse).  
   Pour faciliter les déplacements à l’extérieur, vous pouvez ouvrir le GPS de votre choix en cliquant sur les boutons **Maps** ou **Waze**, qui s’ouvrent directement en mode navigation à l’adresse de l’adversaire. _(Le troisième bouton permet de copier-coller l’adresse en un clic)._
 
 <p align="center"><img alt="contact" width="100%" src="https://raw.githubusercontent.com/StephSako/Kompo/refs/heads/main/illustrations/contact.png"></p>
@@ -134,7 +132,7 @@ Des fonctionnalités sont disponibles en cliquant sur les différents boutons :
 **Boutons affichés uniquement aux capitaines sous la liste des joueurs :**
 
 - **Cliquer sur le bouton vert :** aller vers la page de composition de l'équipe.
-- **Cliquer sur le bouton bleu « porte-voix » :** envoyer la convocation aux joueurs, soit par email soit par SMS. Un message préconstruit vous est proposé à l’ouverture de votre application de SMS/mail par défaut en reprenant toutes les informations de la rencontre : date, lieu et heure de rendez-vous, lieu de la rencontre, nom de l’équipe adversaire, consignes particulières et liste des joueurs sélectionnés.  
+- **Cliquer sur le bouton bleu « porte-voix » :** envoyer la convocation aux joueurs, soit par email soit par SMS. Un message préconstruit vous est proposé à l’ouverture de votre application de SMS/mail par défaut en reprenant toutes les informations de la rencontre : date, lieu et heure de rendez-vous, lieu de la rencontre, nom de l’équipe adverse, consignes particulières et liste des joueurs sélectionnés.  
   Un joueur n’ayant pas renseigné son numéro de téléphone ou ayant décoché une des cases « Contactable » dans son compte ne recevra pas de convocations.
 
 <p align="center"><img alt="gestion_equipe_convocation" width="100%" src="https://raw.githubusercontent.com/StephSako/Kompo/refs/heads/main/illustrations/gestion_equipe_convocation.png"></p>
@@ -158,7 +156,7 @@ Lorsque le capitaine sélectionne les joueurs dans son équipe en cliquant sur l
 - **À gauche :** la liste des joueurs brûlés dans l’équipe.
 - **À droite :** la liste des joueurs sélectionnables dans l’équipe (joueurs non sélectionnés dans une autre équipe, déclarés disponibles et non brûlés).  
   Le brûlage de cette liste affiche le **brûlage prévisionnel à J+1**, c’est-à-dire le brûlage qu’aura le joueur à la prochaine journée s’il est sélectionné dans cette équipe pour cette journée.
-- **Au centre :** des listes déroulantes sont présentes pour chaque joueur à sélectionner. Ces listes déroulantes reprennent naturellement la liste des joueurs **sélectionnables**. Si un joueur est déjà sélectionné dans une ou plusieurs équipes des prochaines journées et qu’il y devient brûlé suite à une sélection lors d’une journée antérieure, il est automatiquement supprimé des équipes dans lesquelles il devient brûlé.
+- **Au centre :** des listes déroulantes sont présentes pour chaque joueur à sélectionner. Ces listes déroulantes reprennent naturellement la liste des joueurs **sélectionnables**. Si un joueur est déjà sélectionné dans une ou plusieurs équipes des prochaines journées et qu’il devient brûlé suite à une sélection lors d’une journée antérieure, il est automatiquement supprimé des équipes dans lesquelles il devient brûlé.
 
 <p align="center"><img alt="selection_liste_joueurs" width="70%" src="https://raw.githubusercontent.com/StephSako/Kompo/refs/heads/main/illustrations/selection_liste_joueurs.PNG"></p>
 
@@ -216,7 +214,7 @@ Cliquer sur le bouton rond bleu avec l’icône « liste » ouvre une fenêtre l
 
 ### (6) - Barre de navigation
 
-#### Naviguer de journées en journées des championnats
+#### Naviguer de journée en journée des championnats
 
 La partie gauche de la barre de navigation permet de naviguer de journée en journée du championnat sélectionné en cliquant sur les dates. Les journées marquées d’une coche verte indiquent qu’elles sont passées.
 
@@ -234,7 +232,7 @@ Ce petit bouton présent dans un coin vous permet de naviguer directement à la 
 
 Cette page permet à chaque membre de gérer ses informations telles que son identifiant, ses informations de contact (une adresse email obligatoire et un numéro de téléphone optionnel), son mot de passe et son image de profil.
 
-Il peut également savoir quels rôles lui sont attribué sur Kompo, à quelle saison il devra renouveler son certificat médical ainsi que les équipes dans lesquelles il est titularisé.
+Il peut également prendre connaissance des rôles qui lui sont attribués sur Kompo, à quelle saison il devra renouveler son certificat médical, ainsi que les équipes dans lesquelles il est titularisé.
 
 Kompo peut accueillir tous les membres (**licenciés**) de votre club et il existe plusieurs niveaux de rôles :
 
@@ -341,8 +339,8 @@ La saison 2025-2026 sera entièrement gratuite à tous les clubs. Cela laisse le
 
 À partir de la 2026-2027, un abonnement annuel sera proposé, dont voici les conditions :
 
-- l’abonnement sera calculé en fonction du nombre d’équipes gérées dans Kompo **tout championnat par équipe confondu**, à savoir **0,50€ par équipe**. C’est pour moi la solution la plus équilibrée par rapport à un abonnement à prix fixe vis-à-vis des petits clubs n’ayant pas un grand nombre d’équipes à gérer.  
-  De plus, à l’inscription de votre club ainsi que depuis le back-office, il vous sera possible de choisir les championnats que vous souhaitez gérer.
+- l’abonnement sera calculé en fonction du nombre d’équipes gérées dans Kompo **tout championnat par équipe confondu**. C’est pour moi la solution la plus équilibrée par rapport à un abonnement à prix fixe vis-à-vis des petits clubs n’ayant pas un grand nombre d’équipes à gérer.  
+  De plus, à l’inscription de votre club ainsi que depuis le back-office, il vous sera possible de choisir les championnats que vous souhaitez gérer.  
 
 - un abonnement annuel sera valable du jour de la souscription jusqu’au prochain 31 Juillet;
 
