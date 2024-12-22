@@ -10,15 +10,15 @@ Trois championnats sont d’ores et déjà disponibles : le **championnat par é
 
 Un tableau récapitulatif et évolutif pour chaque journée permet de visualiser le brûlage pour chaque joueur. L’anticipation du brûlage sur toute la phase est maintenant possible !
 
-D’autres fonctionnalités utiles à la vie sportive et compétitive **en amont** des matches seront présentées tout au long de cette présentation.
+D’autres fonctionnalités utiles à la vie sportive et compétitive **en amont** des rencontres seront présentées tout au long de cette présentation.
 
 Enfin, **Kompo** est entièrement adapté aux mobiles : il n’y a aucune difficulté à déclarer sa disponibilité et à gérer son équipe directement depuis son smartphone !
 
 <div style="width: 100%; display: flex; justify-content: space-evenly;">
   <p align="center">
-    <img width="32%" src="https://raw.githubusercontent.com/StephSako/Kompo/refs/heads/main/illustrations/responsive_1.PNG" alt="responsive_1">
-    <img width="32%" src="https://raw.githubusercontent.com/StephSako/Kompo/refs/heads/main/illustrations/responsive_2.PNG" alt="responsive_2">
-    <img width="32%" src="https://raw.githubusercontent.com/StephSako/Kompo/refs/heads/main/illustrations/responsive_3.PNG" alt="responsive_3">
+    <img width="30%" src="https://raw.githubusercontent.com/StephSako/Kompo/refs/heads/main/illustrations/responsive_1.PNG" alt="responsive_1">
+    <img width="30%" src="https://raw.githubusercontent.com/StephSako/Kompo/refs/heads/main/illustrations/responsive_2.PNG" alt="responsive_2">
+    <img width="30%" src="https://raw.githubusercontent.com/StephSako/Kompo/refs/heads/main/illustrations/responsive_3.PNG" alt="responsive_3">
   </p>
 </div>
 
@@ -48,7 +48,7 @@ En 2019, je deviens capitaine d'équipe et je rencontre certaines problématique
 
 C’est pourquoi en 2020, après avoir constaté qu’il n’existait **aucune** plateforme de ce type pour profiter de telles fonctionnalités, j’ai décidé de créer **Kompo**, un site web répondant à toutes ces **problématiques de la vie compétitive d’un club de tennis de table**.
 
-Kompo est en évolution constante et en phase de tests depuis plus de 4 ans, et j’estime qu’aujourd’hui ce projet est suffisamment avancé et stable pour la rentrée **2025-2026**.
+Kompo est en évolution constante depuis plus de 4 ans, et j’estime qu’aujourd’hui ce projet est suffisamment avancé et complet pour la rentrée **2025-2026**.
 
 De plus en 2024, grâce à l'engouement lors les Jeux Olympiques de Paris et au succès des Français sur la scène internationale, le ping attire de plus en plus de licenciés dans toute la France et davantage d’équipes ont été inscrites cette année, c’est pourquoi Kompo vous aidera à gérer toutes ces problématiques tout au long de votre saison.
 
@@ -56,7 +56,7 @@ De plus en 2024, grâce à l'engouement lors les Jeux Olympiques de Paris et au 
 
 **_Les idées originales de ce projet, telles que la gestion informatisée et automatisée du brûlage des joueurs compétiteurs ainsi que leurs développements, sont protégées par le droit d’auteur par dépôt d’une enveloppe Soleau auprès de l’INPI._**
 
-**_Kompo n’est actuellement pas encore en ligne ni disponible aux équipes extérieures à celles du club de la Frette sur Seine, Kompo étant encore en phase d’évolution et de tests._**
+**_Kompo n’est actuellement pas encore en ligne ni disponible aux équipes extérieures à celles du club de la Frette sur Seine._**
 
 ## Plus en détails …
 
@@ -96,11 +96,11 @@ Le (❕) orange indique que le joueur est **pré-brûlé** dans l’équipe; c�
 
 <p align="center"><img alt="brulage_exemples" width="50%" src="https://raw.githubusercontent.com/StephSako/Kompo/refs/heads/main/illustrations/brulage_exemples.PNG"></p>
 
-- Noel a joué un match en 2 en J1 et deux matches en 4 en J2 et J3 : il est donc **pré-brûlé** en 3 et 4, et **brûlé** en 5.
+- Noel a joué une rencontre en 2 en J1 et deux rencontres en 4 en J2 et J3 : il est donc **pré-brûlé** en 3 et 4, et **brûlé** en 5.
   - Par exemple, s’il est sélectionné en 3 pour cette J5, il deviendra **brûlé** en 4 (en plus de la 5) pour les prochaines journées.
-- Rudy a joué un match en 1 en J1 et un match en 2 en J3 : il est donc **brûlé** en 3, 4 et 5 ;
-- Remy a joué un match en 1 en J1 et trois matches en 2 en J2, J3 et J4 : il est donc **pré-brûlé** en 2, et **brûlé** en 3, 4 et 5 ;
-- Enfin, Cédric a joué un match en 3 en J2 : il est seulement **pré-brûlé** en 4 et 5.
+- Rudy a joué une rencontre en 1 en J1 et une rencontre en 2 en J3 : il est donc **brûlé** en 3, 4 et 5 ;
+- Remy a joué une rencontre en 1 en J1 et trois rencontres en 2 en J2, J3 et J4 : il est donc **pré-brûlé** en 2, et **brûlé** en 3, 4 et 5 ;
+- Enfin, Cédric a joué une rencontre en 3 en J2 : il est seulement **pré-brûlé** en 4 et 5.
   - Par exemple, s’il est sélectionné en 1 lors de cette J5, il deviendra **pré-brûlé** en 2 et 3, et **brûlé** en 4 et 5 à l’issu de cette J5.
 
 ### (3) - Compositions d'une équipe et indicateurs des rencontres
@@ -143,8 +143,8 @@ Des fonctionnalités sont disponibles en cliquant sur les différents boutons :
 
 D’autres indicateurs optionnels peuvent être ajoutés pour chaque rencontre depuis le back-office par les capitaines :
 
-- journée décalée (match avancé ou reporté) ;
-- salle indisponible/match délocalisé (l’icône domicile/extérieur devient orange accompagné d’un message) ;
+- journée décalée (rencontre avancée ou reportée) ;
+- salle indisponible/rencontre délocalisée (l’icône domicile/extérieur devient orange accompagné d’un message) ;
 - indications d’accès, consignes pour le début/fin des rencontres, etc.
 
 <p align="center"><img alt="gestion_equipe_full_options" width="80%" src="https://raw.githubusercontent.com/StephSako/Kompo/refs/heads/main/illustrations/gestion_equipe_full_options.PNG"></p>
@@ -210,7 +210,7 @@ Contrairement à d’autres sites et applications, le calcul des points virtuels
 
 La courbe dessine l’évolution de votre classement sur les 2 dernières saisons.
 
-Cliquer sur le bouton rond bleu avec l’icône « liste » ouvre une fenêtre listant les « matches virtuels », c’est-à-dire les matches pas encore validés et pris en compte dans le calcul des points virtuels.
+Cliquer sur le bouton rond bleu avec l’icône « liste » ouvre une fenêtre listant les « parties virtuelles », c’est-à-dire les parties pas encore validées et prises en compte dans le calcul des points virtuels.
 
 <p align="center"><img alt="liste_matches_virtuels" width="40%" src="https://raw.githubusercontent.com/StephSako/Kompo/refs/heads/main/illustrations/liste_matches_virtuels.PNG"></p>
 
@@ -234,7 +234,7 @@ Ce petit bouton présent dans un coin vous permet de naviguer directement à la 
 
 Cette page permet à chaque membre de gérer ses informations telles que son identifiant, ses informations de contact (une adresse email obligatoire et un numéro de téléphone optionnel), son mot de passe et son image de profil.
 
-Il peut également savoir quels rôles lui sont attribué sur Kompo, à quelle saison il deviendra renouveler son certificat médical ainsi que les équipes dans lesquelles il est titularisé.
+Il peut également savoir quels rôles lui sont attribué sur Kompo, à quelle saison il devra renouveler son certificat médical ainsi que les équipes dans lesquelles il est titularisé.
 
 Kompo peut accueillir tous les membres (**licenciés**) de votre club et il existe plusieurs niveaux de rôles :
 
@@ -258,7 +258,7 @@ Kompo peut accueillir tous les membres (**licenciés**) de votre club et il exis
 
 **Informations de contact**
 
-Les utilisateurs peuvent renseigner un numéro de téléphone en plus de leur adresse email. Cela permet d’être contacté par les capitaines via des listes de diffusion sur la page **Contacter** ainsi que de recevoir les convocations aux matches. Si un membre ne souhaite pas être contacté de quelque manière que ce soit, il lui suffira de décocher les cases respectives « Contactables ».
+Les utilisateurs peuvent renseigner un numéro de téléphone en plus de leur adresse email. Cela permet d’être contacté par les capitaines via des listes de diffusion sur la page **Contacter** ainsi que de recevoir les convocations aux rencontres. Si un membre ne souhaite pas être contacté de quelque manière que ce soit, il lui suffira de décocher les cases respectives « Contactables ».
 
 #### Page « Contacter »
 
