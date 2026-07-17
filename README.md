@@ -232,7 +232,7 @@ Ce petit bouton présent dans un coin vous permet de naviguer directement à la 
 
 Cette page permet à chaque membre de gérer ses informations telles que son identifiant, ses informations de contact (une adresse email obligatoire et un numéro de téléphone optionnel), son mot de passe et son image de profil.
 
-Il peut également prendre connaissance des rôles qui lui sont attribués sur Kompo, à quelle saison il devra renouveler son certificat médical, ainsi que les équipes dans lesquelles il est titularisé.
+Il peut également prendre connaissance des rôles qui lui sont attribués sur Kompo, ainsi que les équipes dans lesquelles il est titularisé.
 
 Kompo peut accueillir tous les membres (**licenciés**) de votre club et il existe plusieurs niveaux de rôles :
 
